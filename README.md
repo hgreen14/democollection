@@ -1,3 +1,7 @@
+# democollection
+
+Hannah's demo project! 
+
 # CollectionBuilder-CSV
 
 CollectionBuilder-CSV is a robust and flexible "stand alone" template for creating digital collection and exhibit websites using Jekyll and a metadata CSV.
